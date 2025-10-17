@@ -49,7 +49,7 @@ Data augmentation using SMOTE for class balancing
  Comparative performance dashboards (Matplotlib + Seaborn).
  Feature importance analysis and confusion matrices.
 
- 6. Project Architecture Diagram (Textual)
+# Project Architecture Diagram (Textual)
 
         ┌────────────────────────┐
         │   Data Ingestion Layer │
